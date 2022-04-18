@@ -1,56 +1,48 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
+# Awesome Books
+> A microverse pair programming project on book library.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML5
+- Javacsript
 
 
-## Getting Started
+## Live Demo 
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+[Live Demo Link](https://tahenybelguith.github.io/awesomeBook/)
 
 
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Create Github repository
+- Have VSCode or choice text editor installed
+- Have Git installed
+- HTML/CSS Linters
+- Good github workflow
+- `open index.html file` .
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- `Git clone - https://github.com/TahenyBEGUITH/awesomeBook`
+- `cd awesomeBook`
+- open file in preferred editor
+- Edit to your satisfaction
+- HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config/tree/master/html-css
 
 
 ## Authors
+👩 Taheny Belguith
 
-👤 **Author1**
+- GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
+- Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
+- LinkedIn: [belguith taheny](https://www.linkedin.com/in/belguith-taheny-47b93a162/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 Victor Ade-Samuel
 
-👤 **Author2**
+- GitHub: [@victoradesamuel](https://github.com/victoradesamuel)
+- Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
+- LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
@@ -64,9 +56,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- Original design idea by Cindy Shin in Behance
 
 ## 📝 License
 
