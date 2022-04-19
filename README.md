@@ -1,18 +1,19 @@
 # Awesome Books
-> A microverse pair programming project on book library.
+> A Microverse pair programming project on book library.
 
+<img src="./img/shot1.png" align='center'>
+</img>
+
+<img src="./img/shot2.JPG" align='center'>
+</img>
+
+<img src="./img/shot3.JPG" align='center'>
+</img>
 
 ## Built With
 
 - HTML5
-- Javacsript
-
-
-## Live Demo 
-
-[Live Demo Link](https://tahenybelguith.github.io/awesomeBook/)
-
-
+- Js
 
 ### Prerequisites
 - Create Github repository
@@ -21,28 +22,28 @@
 - HTML/CSS Linters
 - Good github workflow
 - `open index.html file` .
+  
+
 ### Setup
-- `Git clone - https://github.com/TahenyBEGUITH/awesomeBook`
-- `cd awesomeBook`
+- `Git clone git@github.com:S-imba/Awesome-Book.git`
+- `cd awesome-book`
 - open file in preferred editor
 - Edit to your satisfaction
 - HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config/tree/master/html-css
 
 
 ## Authors
-👩 Taheny Belguith
+👩 **Taheny Belguith**
 
 - GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
 - Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
 - LinkedIn: [belguith taheny](https://www.linkedin.com/in/belguith-taheny-47b93a162/)
 
-👤 Victor Ade-Samuel
+🧑  **Simba Eugene**
 
-- GitHub: [@victoradesamuel](https://github.com/victoradesamuel)
-- Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
-- LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
-
-
+- GitHub: [@S-imba](https://github.com/S-imba)
+- Twitter: [@simb_erella](https://twitter.com/simb_erella)
+- LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)
 
 ## 🤝 Contributing
 
@@ -56,8 +57,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
-- Original design idea by Cindy Shin in Behance
+- [Microverse](https://github.com/microverseinc)
 
 ## 📝 License
 
